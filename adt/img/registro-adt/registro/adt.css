@@ -1,0 +1,146 @@
+*{
+    -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+header{
+    height: 100px;
+background: transparent linear-gradient(270deg, #06BCE3 0%, #00569E 100%) 0% 0% no-repeat padding-box;
+opacity: 1;
+}
+
+.titulo{
+    font-size:30px;
+    text-align: center;
+    margin-bottom: 0;
+    font-weight: bold;
+}
+
+.aviso label {
+    color: #00569E; font-size: 16px; margin-right:10px
+}
+.aviso label a{
+    color: #00569E; font-size: 16px; font-weight: bold;
+}
+
+.campos{
+    color: #00569E; font-size: 14px
+}
+
+.campos-texto{
+    font-size: 12px;
+    color: #4A4B4A;
+}
+
+.btn-enviar{
+    background: #8DC63F 0% 0% no-repeat padding-box;
+                          box-shadow: 0px 5px 10px #00000029;
+                          border-radius: 28px;color: white; font-size: 16px;
+                          padding-left: 45px; padding-right: 45px;height: 50px;
+}
+
+.regalo{
+    background-image: url(./img/premio.jpg);
+    background-position-x: -25px;
+    background-size: 100%;
+    background-position-y: -125px;
+    background-repeat: no-repeat;
+}
+
+.formulario{
+    background-image: url(./img/moneda.png), url(./img/moneda.png);
+    background-position: 25% -120px, left 120%;
+    background-repeat: no-repeat, no-repeat;
+}
+
+.form-label{
+    color: #00569E;
+    font-size: 14px;
+}
+.form-control, .form-select{
+    color: #4A4B4A;
+    font-size: 16px;
+    border-radius: 0;
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+
+}
+
+.form-check-input{
+    width: 20px;
+height: 20px;
+margin-left: 10px;
+margin-right: 10px;
+}
+.form-check-input:checked {
+    background-color: #8DC63F;
+    border-color: #8DC63F;
+}
+.form-check-input:focus {
+    box-shadow: 0 0 0 0.25rem rgb(141 198 63 / 25%);
+
+}
+
+
+.form-select:focus, .form-control:focus{
+    border-color: #8DC63F;
+    outline: 0;
+    box-shadow: 0 0 0 0.25rem rgb(141 198 63 / 25%);
+}
+
+
+
+
+
+
+/* 
+
+@media (min-width: 576px) { 
+    .regalo{
+        background-image: none;
+    }
+ }
+
+
+@media (min-width: 768px) { 
+    .regalo{
+        background-image: none;
+    }
+ }
+
+@media (min-width: 992px) {  }
+
+@media (min-width: 1200px) {  }
+
+@media (min-width: 1400px) {  } */
+
+
+
+
+@media (max-width: 575.98px) { 
+    .regalo, .formulario{
+        background-image: none;
+    }
+ }
+
+@media (max-width: 767.98px) { 
+    .regalo, .formulario{
+        background-image: none;
+    }
+ }
+
+@media (max-width: 991.98px) { 
+    .regalo, .formulario{
+        background-image: none;
+    }
+    .titulo{
+        font-size:20px;
+    }
+    
+ }
+
+@media (max-width: 1199.98px) {  }
+
+@media (max-width: 1399.98px) {  }

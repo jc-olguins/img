@@ -1,0 +1,19 @@
+<svg id="estrellaPlata" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="40" height="39.999" viewBox="0 0 40 39.999">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectángulo_1748" data-name="Rectángulo 1748" width="39.999" height="39.998" fill="none"/>
+    </clipPath>
+  </defs>
+  <path id="Trazado_22370" data-name="Trazado 22370" d="M234.682,111.354a20,20,0,1,0,19.869,20.128,20,20,0,0,0-19.869-20.128" transform="translate(-214.551 -111.353)" fill="#f5b92b"/>
+  <path id="Trazado_22371" data-name="Trazado 22371" d="M233.325,113.217a16.8,16.8,0,1,0,16.689,16.909,16.8,16.8,0,0,0-16.689-16.909" transform="translate(-213.214 -110.017)" fill="#fddb32"/>
+  <path id="Trazado_22372" data-name="Trazado 22372" d="M254.544,131.642c0-.053.005-.106.005-.16a20,20,0,0,0-40-.261c0,.053,0,.106,0,.16Z" transform="translate(-214.552 -111.353)" fill="#fddb32"/>
+  <path id="Trazado_22373" data-name="Trazado 22373" d="M232.917,113.776a15.839,15.839,0,1,0,15.736,15.942,15.838,15.838,0,0,0-15.736-15.942" transform="translate(-212.813 -109.616)" fill="#e8a427"/>
+  <path id="Trazado_22374" data-name="Trazado 22374" d="M220.317,124.475a.7.7,0,0,1,.577-.476l6.253-.778,2.686-5.7a.692.692,0,0,1,.632-.4h0a.7.7,0,0,1,.627.4l2.672,5.7,6.251.793a.7.7,0,0,1,.388,1.2l-4.6,4.305,1.178,6.189a.7.7,0,0,1-.276.7.687.687,0,0,1-.414.132.7.7,0,0,1-.333-.086l-5.514-3.045-5.523,3.031a.713.713,0,0,1-.342.088.7.7,0,0,1-.68-.829l1.192-6.187L220.5,125.2a.7.7,0,0,1-.185-.725" transform="translate(-210.44 -107.216)" fill="#fddb32"/>
+  <g id="Grupo_11374" data-name="Grupo 11374" style="mix-blend-mode: color;isolation: isolate">
+    <g id="Grupo_11373" data-name="Grupo 11373">
+      <g id="Grupo_11372" data-name="Grupo 11372" clip-path="url(#clip-path)">
+        <path id="Trazado_22375" data-name="Trazado 22375" d="M254.55,131.483a20,20,0,1,1-19.869-20.128,20,20,0,0,1,19.869,20.128" transform="translate(-214.552 -111.353)" fill="#dadada"/>
+      </g>
+    </g>
+  </g>
+</svg>
